@@ -2,7 +2,3 @@
 
 - [HTML](#HTML5)
 - <a href="https://github.com/parthraval01/Angular-Interview-Questions-Answers#angular-framework" target="_blank">Angular</a>
-
-## [[⬆]](#toc) <a name=HTML5>HTML5 Basics</a>
-
----
